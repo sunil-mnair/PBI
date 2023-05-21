@@ -1,0 +1,5 @@
+Domain: 
+bytesizetrainings.com
+Tenant ID: cf3db53f-1d40-41ca-8028-1c431c1a3016
+Client ID: c3fc398e-7a68-445a-add8-72d5403fa00c
+Secret Key: 1Ns8Q~ekZzdnGnV18Ja9PNRlgvz72R9l0UXrvcTZ
