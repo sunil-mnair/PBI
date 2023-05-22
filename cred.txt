@@ -1,5 +1,23 @@
-Domain: 
-bytesizetrainings.com
-Tenant ID: cf3db53f-1d40-41ca-8028-1c431c1a3016
-Client ID: c3fc398e-7a68-445a-add8-72d5403fa00c
-Secret Key: 1Ns8Q~ekZzdnGnV18Ja9PNRlgvz72R9l0UXrvcTZ
+{
+  "AzureAd": {
+    "Instance": "https://login.microsoftonline.com/",
+    "Domain": "",
+    "TenantId": "cf3db53f-1d40-41ca-8028-1c431c1a3016",
+    "ClientId": "27d22208-0d04-4310-8f2d-cb40198e5838",
+    "ClientSecret": "aZb8Q~9UKjd_48NblwFeUr4QJvGzVpdMaBF6wab1"
+  },
+  "PowerBi": {
+    "ServiceRootUrl": "https://api.powerbi.com",
+    "WorkspaceId": "f05b632b-d5b2-4130-be57-32b069fc1bbf"
+  },
+  "CurrentUser": {
+    "Region": ""
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
